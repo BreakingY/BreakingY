@@ -1,8 +1,8 @@
 ## Hi there 👋
 <!--关注量等信息统计-->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BreakingY&show_icons=true&theme=tokyonight" /> </div>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api?username=BreakingY&show_icons=true&theme=tokyonight" /> </div>
 <!--使用语言统计-->
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingY" /> </div>
+<div align="left"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingY" /> </div>
 
 <!--
 **BreakingY/BreakingY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

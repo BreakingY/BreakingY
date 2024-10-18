@@ -10,11 +10,31 @@
   <img src="https://github-readme-stats.vercel.app/api?username=BreakingY&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" style="width: 45%;"/>
 
   
-  <!-- 
-  Most Used Languages
+  
+  <!-- Most Used Languages-->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingY&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 35%;"/>
-  -->
 </div>
+
+<div style="display: flex; justify-content: center; flex-direction: column; align-items: center; text-align: center;">
+  <h2>👨‍💻 关于我</h2>
+  <p>本人从事音视频开发，专注于音视频传输、编解码、硬件加速技术以及 AI 推理集成的应用开发，欢迎与我交流！</p>
+  <p>- 📫 联系方式：<a href="mailto:kxsun617@163.com">kxsun617@163.com</a></p>
+  <p>- 📝 博客地址：<a href="https://sunkx.blog.csdn.net">CSDN博客</a></p>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+  <!-- GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=BreakingY&show_icons=true&theme=tokyonight&hide_rank=true" alt="GitHub Stats" style="width: 45%;"/>
+
+  <!-- Most Used Languages-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingY&layout=compact&theme=tokyonight" alt="Top Languages" style="width: 35%;"/>
+</div>
+
+
+
+
+
+
 
 
 

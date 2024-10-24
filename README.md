@@ -13,6 +13,7 @@
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=BreakingY&show_icons=true&theme=tokyonight&hide_rank=true&bg_color=transparent" alt="GitHub Stats" style="width: 30%; height: 100%;"/>
 
+  
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingY&layout=compact&theme=tokyonight&bg_color=transparent" alt="Top Languages" style="width: 35%; height: 100%;"/>
 </div>

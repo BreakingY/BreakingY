@@ -2,9 +2,9 @@
   <br>
   Hi 👋, I'm BreakingY 🚀<br>
   <br>
-  专注音视频传输、编解码、硬件加速技术以及 AI 推理集成的应用开发，欢迎与我交流！<br>
-  📫 联系方式：<a href="mailto:kxsun617@163.com">kxsun617@163.com</a><br>
-  📝 博客地址：<a href="https://sunkx.blog.csdn.net">my blog</a><br> 
+  Focusing on application development in audio and video transmission, encoding/decoding, hardware acceleration technologies, and AI inference integration. Feel free to connect with me for discussions!<br>
+  📫 email：<a href="mailto:kxsun617@163.com">kxsun617@163.com</a><br>
+  📝 blog：<a href="https://sunkx.blog.csdn.net">https://sunkx.blog.csdn.net</a><br> 
   <br>
   <br>
 </p>

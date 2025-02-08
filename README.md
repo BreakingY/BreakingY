@@ -1,11 +1,10 @@
 <p align="center">
   <br>
-  Hi 👋, I'm BreakingY 🚀<br>
+  <h2>Hi 👋, I'm <strong>BreakingY</strong> 🚀</h2>
+  <p>Focused on audio/video transmission, encoding/decoding, hardware acceleration, and AI inference integration. Feel free to connect!</p>
   <br>
-  Focusing on application development in audio and video transmission, encoding/decoding, hardware acceleration technologies, and AI inference integration. Feel free to connect with me for discussions!<br>
-  📫 email：<a href="mailto:kxsun617@163.com">kxsun617@163.com</a><br>
-  📝 blog：<a href="https://sunkx.blog.csdn.net">https://sunkx.blog.csdn.net</a><br> 
-  <br>
+  <p>📫 <strong>Email</strong>: <a href="mailto:kxsun617@163.com">kxsun617@163.com</a></p>
+  <p>📝 <strong>Blog</strong>: <a href="https://sunkx.blog.csdn.net" target="_blank">https://sunkx.blog.csdn.net</a></p>
   <br>
 </p>
 
@@ -17,7 +16,6 @@
   <!-- Most Used Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BreakingY&layout=compact&theme=tokyonight&bg_color=transparent" alt="Top Languages" style="width: 35%; height: 100%;"/>
 </div>
-
 
 
 

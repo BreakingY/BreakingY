@@ -1,7 +1,7 @@
 <p align="center">
   <br>
   <h2>Hi 👋, I'm <strong>BreakingY</strong> 🚀</h2>
-  <p>Focused on audio/video transmission, encoding/decoding, hardware acceleration, and AI inference integration. Feel free to connect!</p>
+  <p>Focused on audio/video transmission, encoding/decoding, hardware acceleration, deep learning, and AI inference acceleration. Feel free to get in touch!</p>
   <br>
   <p>📫 <strong>Email</strong>: <a href="mailto:kxsun617@163.com">kxsun617@163.com</a></p>
   <p>📝 <strong>Blog</strong>: <a href="https://sunkx.blog.csdn.net" target="_blank">https://sunkx.blog.csdn.net</a></p>

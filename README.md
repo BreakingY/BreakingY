@@ -11,7 +11,7 @@
 ## 🚀 About Me
 
 - 🎬 Audio/Video developer  
-- 🔧 Experienced with RTSP, RTP, H.264/H.265, AAC  
+- 🔧 Experienced with RTSP, RTP, RTMP, H.264/H.265, AAC, G.711 
 - 🧠 AI acceleration & hardware codec integration  
 - 📝 Sharing technical blogs on CSDN  
 - 🌐 Open-source enthusiast  
